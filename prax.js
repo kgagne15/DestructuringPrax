@@ -88,7 +88,7 @@
 // let arr = [1, 2];
 // [arr[0], arr[1]] = [arr[1], arr[0]]
 
-//Write a function called raceResults in one line
+//Write a function called raceResults in one line (used solution to get it on one line)
 
 
 const raceResults = ([first, second, third, ...rest]) => ({
